@@ -1,0 +1,3 @@
+displayName = The Havoc Mod
+author = Terrariag8mer#1503
+version = 0.1
