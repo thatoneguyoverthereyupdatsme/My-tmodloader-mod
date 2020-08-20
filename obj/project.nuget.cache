@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+ZgKuZKJtHD3iaevECciGAUkO2VUdUrindL0jK1gBnrd8280RiYHtDeY7SajGLlOfg5+JpCPtNOIHbOxXwU0nQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lincoln\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\Xtraarmory\\Xtraarmory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lincoln\\.nuget\\packages\\tmodloader.codeassist\\0.1.1\\tmodloader.codeassist.0.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

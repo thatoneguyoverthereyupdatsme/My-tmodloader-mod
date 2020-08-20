@@ -1,1 +1,31 @@
-Xtra Aromory is a pretty cool mod, it does...this. Modify this file with a description of your mod.
+Thanks For over 500 downloads, i thought i would never get this far so fast!
+The havoc mod is a general content mod like AA or inlustrious
+it adds:
+42 items weapons and acessories
+7 armor sets
+4 Matereals (by matereals i mean it makes armor and weapons)
+14 projectiles (2 unused)
+3 tiles
+4 NPCs
+the sprites and balancing is bad and i need help with making the mod
+github:https://github.com/thatoneguyoverthereyupdatsme/My-tmodloader-mod
+oh and also i need help because i cant make good original npc's (by original i mean no vanilla source code like; aiType = -1; is original)
+Fourm:https://docs.google.com/forms/d/e/1FAIpQLScaCwyxMoP5TxsuxbKIi7vi6CZZ3iArjTABQFvjom0SJPuTwA/viewform
+Planned stuff;
+-a new class
+-some bosses
+-maybe a biome
+-lots of enemies
+version 0.8: nickname: the Party update
+-Added party themed items
+version 0.7: nickname: the Small update
+-Added multitools, and (maybe) fixed a crafting recipie 
+version 0.6: nickname: the NPC update
+-Added 4 NPC's using vanilla code because i can't make my own NPC code
+version 0.5: nickname: the Potion update
+-Added A lot of potion based weapons (may make new class later)
+version 0.4: nickname: the steel update
+-Added steel Alloy and some stuff for it
+-updated some sprites
+version 0.3: the Balence update
+balenced some stuff

@@ -24,6 +24,7 @@ namespace Xtraarmory.Items
 			item.knockBack = 4;
 			item.value = 10;
 			item.rare = 2;
+			item.maxStack = 999;
 		}
 
 		public override void AddRecipes() 
